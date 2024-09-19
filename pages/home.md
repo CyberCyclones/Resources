@@ -17,6 +17,8 @@ Part of learning is having great resources to engage with in an organized fashio
 Opening a terminal will create a window that is relatively void of any information at first. As you learn more about Linux, this otherwise ambiguous box will become your best friend. However, on most "desktop ready" Linux-based operating systems, the terminal isn't something you are just booted into but instead need to learn how to bring up. The following are keyboard shortcuts for both Kali and Ubuntu that can be used to bring up a terminal window.
 
 **Ubuntu / Kali Linux Terminal Shortcut -** *Ctrl+Alt+T*
+#### Resources
+- *Want to learn linux? Try Linux Journey! - [Click Here](https://linuxjourney.com/)*
 
 # Step 3. Diving Into the Linux System Configuration Files
 One of the things you will learn about Linux is that it is extremely flexible in it's operation. You can customize and configure just about anything with a Linux operating system. It gives you great power, but with that, comes great responsibility. 
